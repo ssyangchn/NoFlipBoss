@@ -1,0 +1,14 @@
+{
+	"id": "NoFlipBoss",
+	"name": "NoFlipBoss",
+	"display_name": "NoFlipBoss",
+	"author": ["ssyangchn"],
+	"description": "禁止反转",
+	"prefix": "nfb",
+	"main_file": "NoFlipBoss.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": [],
+}
