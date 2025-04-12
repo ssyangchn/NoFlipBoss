@@ -30,7 +30,7 @@ By removing this ability from affected Bosses, the mod reduces unnecessary SL ab
 
 这些 Boss 的翻转卡片的能力无效(效果同卖出摔跤手)。
 
-These Bosses will have their flipping mechanic disabled when the battle starts.
+The flipping ability of these Bosses will be disabled (similar to selling the Wrestler card).
 
 ---
 
