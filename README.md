@@ -49,6 +49,7 @@ These Bosses will have their flipping mechanic disabled when the battle starts.
 ### 🧑‍💻 作者 | Author
 
 Mod 作者：ssyangchn
+
 Author: **ssyangchn**
 
 欢迎提交 Issues 和建议！
