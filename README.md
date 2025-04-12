@@ -11,7 +11,7 @@
 ### 📖 简介 | Description
 
 **中文**：
-关闭小丑牌中特定 Boss 的卡牌翻转机制。由于可以通过 SL（读档-预览-回档）偷看卡牌，翻转机制变得毫无意义。因此本 Mod 禁用这类 Boss 的能力，省去无谓的反复 SL 操作。
+关闭小丑牌中特定 Boss 的卡牌翻转机制。由于可以通过 SL 偷看卡牌，翻转机制变得毫无意义。因此本 Mod 禁用这类 Boss 的能力，省去无谓的反复 SL 操作。
 
 **English**:  
 This mod disables the card-flipping mechanic for specific Bosses in *Balatro*.  
