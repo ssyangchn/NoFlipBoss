@@ -28,7 +28,7 @@ By removing this ability from affected Bosses, the mod reduces unnecessary SL ab
 - The Mark  
 - The Fish
 
-这些 Boss 启用翻转机制后会立即被自动禁用。
+这些 Boss 的翻转卡片的能力无效(效果同卖出摔跤手)。
 
 These Bosses will have their flipping mechanic disabled when the battle starts.
 
