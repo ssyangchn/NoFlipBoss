@@ -1,0 +1,14 @@
+{
+	"id": "ManualFlip",
+	"name": "Manual Flip",
+	"display_name": "Manual Flip Card",
+	"author": ["ssyangchn"],
+	"description": "手动翻转",
+	"prefix": "mf",
+	"main_file": "ManualFlip.lua",
+	"priority": 0,
+	"badge_colour": "",
+	"badge_text_colour": "",
+	"version": "1.0.0",
+	"dependencies": [],
+}

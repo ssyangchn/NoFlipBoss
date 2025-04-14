@@ -1,48 +1,38 @@
 
 ---
 
-## 📦 NoFlipBoss
+📦 Manual Flip | 手动翻转
+为《Balatro》添加快捷键功能，在打牌阶段翻转选中的手牌和小丑牌
+Adds a hotkey function to flip selected playing cards and Jokers during the play phase in Balatro
 
-> 禁用《Balatro》中特定 Boss 的翻转机制  
-> Disable the flipping mechanic of certain Bosses in *Balatro*
+📖 简介 | Description
+中文：
+该 Mod 为小丑牌（Balatro）添加了一个实用功能：在打牌阶段，玩家可以使用快捷键 X 来翻转当前选中的手牌或小丑牌。这使得你可以手动控制卡牌的正反面，以省去不必要的 SL 操作。
 
----
+English:
+This mod adds a practical feature to Balatro: during the play phase, players can press the X key to flip selected playing cards or Jokers. This allows manual control over card faces and helps eliminate unnecessary save-scumming (SL) operations.
 
-### 📖 简介 | Description
+🎮 使用方法 | How to Use
+在打牌界面中，鼠标点击选中一张或多张手牌或小丑牌
 
-**中文**：
-关闭小丑牌中特定 Boss 的卡牌翻转机制。由于可以通过 SL 偷看卡牌，翻转机制变得毫无意义。因此本 Mod 禁用这类 Boss 的能力，省去无谓的反复 SL 操作。
+按下 X 键，所选卡牌将立即翻转
 
-**English**:  
-This mod disables the card-flipping mechanic for specific Bosses in *Balatro*.  
-Since players can use save scumming (SL) to preview flipped cards, the flipping mechanic loses its purpose.  
-By removing this ability from affected Bosses, the mod reduces unnecessary SL abuse and streamlines gameplay.
+During the play phase, click to select one or more playing cards or Jokers
 
----
+Press X to instantly flip the selected cards
 
-### 🔧 影响的 Boss | Affected Bosses
+📁 安装方式 | Installation
+确保你已安装 smods 模组加载器
 
-- Amber Acorn  
-- The Wheel  
-- The House  
-- The Mark  
-- The Fish
+将本 Mod 放入你的 mods/ 目录
 
-这些 Boss 的翻转卡片的能力无效(效果同卖出摔跤手)。
+启动游戏，确认 Mod 已启用
 
-The flipping ability of these Bosses will be disabled (similar to selling the Wrestler card).
+Make sure you have the smods mod loader installed
 
----
+Place this mod into your mods/ directory
 
-### 📁 安装方式 | Installation
-
-1. 确保你已安装 [smods 模组加载器](https://github.com/Steamodded/smods)  
-2. 将本 Mod 放入你的 `mods/` 目录  
-3. 启动游戏，确认 Mod 已启用
-
-1. Make sure you have the [smods mod loader](https://github.com/Steamodded/smods) installed  
-2. Place this mod into your `mods/` directory  
-3. Launch the game and verify the mod is enabled
+Launch the game and verify the mod is enabled
 
 ---
 
