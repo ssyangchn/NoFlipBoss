@@ -1,4 +1,4 @@
-## 📦 Manual Flip | 手动翻转
+## 📦 手动翻转 | Manual Flip
 
 > 为《Balatro》添加快捷键功能，在打牌阶段手动翻转选中的手牌和小丑牌  
 > Adds a hotkey function to flip selected playing cards and Jokers during the play phase in *Balatro*
